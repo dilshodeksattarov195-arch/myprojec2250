@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configrelete",
+        "uuid": 21015000,
+        "checksum": "jgy30l"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
